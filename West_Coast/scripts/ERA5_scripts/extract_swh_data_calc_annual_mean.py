@@ -19,18 +19,17 @@ sitename = 'west_coast'
 datapath = '/shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/'
 
 # Take annual average from hourly data
-## COMMENT THIS LOOP WHEN IT HAS BEEN RUN ONCE
-for year in np.arange(1992,2022):
+'''for year in np.arange(1992,2022):
 	swh_data_ifile_grb = datapath + sitename + '_' + str(year) + '.grib'
 	swh_data_ofile_grb = datapath + 'annual_mean/' + sitename + '_' + str(year) + '_swh.grib'
 	
 	# Take the annual average swh
 	cdo.yearmean(input=swh_data_ifile_grb,output=swh_data_ofile_grb)
 	print(year)
-#'''
+'''
 
 # take the average swh across all available years
-time_period_mean_swh_ifile = datapath + 'mean_1992thru2021_swh' + sitename + '.grib' # to generate the mean file , run in bash shell:  cdo  timmean  -cat '*.nc'  mean.nc (in the dir where the annual datafiles are)
+time_period_mean_swh_ifile = datapath + 'mean_swh_' + sitename + '_2002thru2022.grib' # to generate the mean file , run in bash shell:  cdo  timmean  -cat '*.nc'  mean.nc (in the dir where the annual datafiles are)
 
 
 ### if you want to visualize the climatology grib file above, then convert it to nc and run plot_swh_u_and_v.py
@@ -38,9 +37,9 @@ time_period_mean_swh_ifile = datapath + 'mean_1992thru2021_swh' + sitename + '.g
 ## Open dataset
 ds = cfgrib.open_datasets(time_period_mean_swh_ifile)
 ds_waves = ds[0]
-ds_waves_data = ds_waves['swh'].values
-ds_lats = ds[0].latitude.values
-ds_lons = ds[0].longitude.values
+ds_waves_data = ds_waves['var229'].values
+ds_lats = ds[0].lat.values
+ds_lons = ds[0].lon.values
 
 
 

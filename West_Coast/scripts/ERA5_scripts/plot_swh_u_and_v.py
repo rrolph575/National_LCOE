@@ -7,8 +7,7 @@ import cartopy.crs as ccrs
 
 
 # get the path of the file. It can be found in the repo data directory.
-#fname = '/shared-projects/rev/projects/goMexico/data/ERA5/netcdf/gulf_of_mexico_100m_u_and_v_swh_1992.nc'
-fname = '/shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/ncfiles/west_coast_100m_u_and_v_swh_2002.nc'
+fname = '/shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/ncfiles/mean_swh_west_coast_2002thru2022.nc'
 
 '''# commenting this becuase swh is not included in the fname
 # read file
@@ -53,4 +52,6 @@ ax.coastlines()
 
 cbar = plt.colorbar()
 cbar.ax.set_ylabel('Combined wind waves and swell [m]')
+plt.title('Mean SWH 2002-2022')
+plt.savefig('figures/swh_mean_2002thru2022.png',bbox_inches='tight')
 plt.show()

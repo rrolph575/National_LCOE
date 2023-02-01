@@ -1,2 +1,2 @@
 
-cdo timmean -cat 'gulf_of_mexico*' mean_1992thru2021.grib
+cdo timmean -cat 'west_coast*' mean_swh_west_coast_2002thru2022.grib
