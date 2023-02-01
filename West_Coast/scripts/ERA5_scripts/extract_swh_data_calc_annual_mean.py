@@ -29,7 +29,8 @@ datapath = '/shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/'
 '''
 
 # take the average swh across all available years
-time_period_mean_swh_ifile = datapath + 'mean_swh_' + sitename + '_2002thru2022.grib' # to generate the mean file , run in bash shell:  cdo  timmean  -cat '*.nc'  mean.nc (in the dir where the annual datafiles are)
+# to generate the mean file , run in bash shell:  cdo  timmean  -cat '*.nc'  mean.nc (in the dir where the annual datafiles are)
+time_period_mean_swh_ifile = datapath + 'mean_swh_' + sitename + '_2002thru2022.grib' 
 
 
 ### if you want to visualize the climatology grib file above, then convert it to nc and run plot_swh_u_and_v.py
@@ -42,6 +43,7 @@ ds_lats = ds[0].lat.values
 ds_lons = ds[0].lon.values
 
 
+####### below will add the SWH data to the project points file, but the paths need to be updated ######
 
 
 '''### read in the project points that give the lat/lons of the area you are looking at.  
