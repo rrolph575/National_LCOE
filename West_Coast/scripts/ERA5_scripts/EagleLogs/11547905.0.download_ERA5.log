@@ -1,0 +1,198 @@
+2004
+2023-01-31 16:07:39,396 INFO Welcome to the CDS
+2023-01-31 16:07:39,396 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:07:39,601 INFO Request is queued
+2023-01-31 16:07:40,746 INFO Request is running
+2023-01-31 16:14:00,670 INFO Request is completed
+2023-01-31 16:14:00,671 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data5/adaptor.mars.internal-1675206459.6912794-12143-14-2150d297-751c-4a14-b712-0f9122625ae2.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2004.grib (13.1M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2004']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.1M [00:00<?, ?B/s]  0%|          | 40.0k/13.1M [00:00<01:17, 176kB/s]  1%|          | 96.0k/13.1M [00:00<00:47, 285kB/s]  2%|▏         | 209k/13.1M [00:00<00:26, 501kB/s]   3%|▎         | 431k/13.1M [00:00<00:14, 913kB/s]  6%|▌         | 796k/13.1M [00:00<00:08, 1.52MB/s] 11%|█         | 1.46M/13.1M [00:00<00:04, 2.71MB/s] 21%|██        | 2.76M/13.1M [00:01<00:02, 4.96MB/s] 41%|████      | 5.35M/13.1M [00:01<00:00, 9.55MB/s] 57%|█████▋    | 7.45M/13.1M [00:01<00:00, 11.5MB/s] 65%|██████▌   | 8.55M/13.1M [00:01<00:00, 10.4MB/s] 84%|████████▍ | 11.0M/13.1M [00:01<00:00, 12.9MB/s] 98%|█████████▊| 12.8M/13.1M [00:01<00:00, 12.7MB/s]                                                    2023-01-31 16:14:03,445 INFO Download rate 4.7M/s
+2005
+2023-01-31 16:14:05,724 INFO Welcome to the CDS
+2023-01-31 16:14:05,727 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:14:05,894 INFO Request is queued
+2023-01-31 16:14:07,037 INFO Request is running
+2023-01-31 16:20:26,476 INFO Request is completed
+2023-01-31 16:20:26,477 INFO Downloading https://download-0006-clone.copernicus-climate.eu/cache-compute-0006/cache/data1/adaptor.mars.internal-1675206845.9730203-20696-3-763016f7-f473-4705-9609-e46499577b5a.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2005.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2005']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 35.0k/13.0M [00:00<01:22, 165kB/s]  1%|          | 87.0k/13.0M [00:00<00:49, 272kB/s]  1%|▏         | 182k/13.0M [00:00<00:29, 450kB/s]   3%|▎         | 373k/13.0M [00:00<00:16, 811kB/s]  6%|▌         | 750k/13.0M [00:00<00:08, 1.50MB/s] 11%|█         | 1.39M/13.0M [00:00<00:04, 2.67MB/s] 19%|█▉        | 2.53M/13.0M [00:01<00:02, 4.63MB/s] 32%|███▏      | 4.12M/13.0M [00:01<00:01, 6.82MB/s] 37%|███▋      | 4.77M/13.0M [00:01<00:01, 6.39MB/s] 53%|█████▎    | 6.97M/13.0M [00:01<00:00, 9.62MB/s] 62%|██████▏   | 8.05M/13.0M [00:01<00:00, 9.03MB/s] 68%|██████▊   | 8.92M/13.0M [00:01<00:00, 8.38MB/s] 83%|████████▎ | 10.8M/13.0M [00:01<00:00, 10.4MB/s] 98%|█████████▊| 12.8M/13.0M [00:01<00:00, 11.9MB/s]                                                    2023-01-31 16:20:29,421 INFO Download rate 4.4M/s
+2006
+2023-01-31 16:20:31,580 INFO Welcome to the CDS
+2023-01-31 16:20:31,582 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:20:31,847 INFO Request is queued
+2023-01-31 16:20:32,995 INFO Request is running
+2023-01-31 16:26:52,912 INFO Request is completed
+2023-01-31 16:26:52,913 INFO Downloading https://download-0018.copernicus-climate.eu/cache-compute-0018/cache/data9/adaptor.mars.internal-1675207231.9821804-4212-1-b4fb653c-acbf-4a18-9de7-8a0e69f30608.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2006.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2006']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:03, 74.5kB/s]  0%|          | 35.0k/13.0M [00:00<01:29, 153kB/s]   1%|          | 91.0k/13.0M [00:00<00:49, 274kB/s]  2%|▏         | 203k/13.0M [00:00<00:27, 492kB/s]   3%|▎         | 393k/13.0M [00:00<00:16, 816kB/s]  6%|▌         | 791k/13.0M [00:00<00:08, 1.52MB/s] 12%|█▏        | 1.50M/13.0M [00:00<00:04, 2.80MB/s] 22%|██▏       | 2.89M/13.0M [00:01<00:02, 5.19MB/s] 32%|███▏      | 4.21M/13.0M [00:01<00:01, 6.50MB/s] 37%|███▋      | 4.82M/13.0M [00:01<00:01, 6.01MB/s] 53%|█████▎    | 6.88M/13.0M [00:01<00:00, 8.78MB/s] 62%|██████▏   | 8.11M/13.0M [00:01<00:00, 8.71MB/s] 84%|████████▎ | 10.9M/13.0M [00:01<00:00, 12.2MB/s] 93%|█████████▎| 12.1M/13.0M [00:01<00:00, 10.8MB/s]                                                    2023-01-31 16:26:56,941 INFO Download rate 3.2M/s
+2007
+2023-01-31 16:26:59,185 INFO Welcome to the CDS
+2023-01-31 16:26:59,188 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:26:59,349 INFO Request is queued
+2023-01-31 16:27:00,491 INFO Request is running
+2023-01-31 16:33:20,048 INFO Request is completed
+2023-01-31 16:33:20,049 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data2/adaptor.mars.internal-1675207619.413432-19970-4-2a25269e-7aa8-4626-9c1f-694e9a36c643.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2007.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2007']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:00, 75.6kB/s]  0%|          | 34.0k/13.0M [00:00<01:29, 152kB/s]   1%|          | 93.0k/13.0M [00:00<00:46, 292kB/s]  2%|▏         | 209k/13.0M [00:00<00:25, 527kB/s]   3%|▎         | 432k/13.0M [00:00<00:13, 950kB/s]  6%|▌         | 749k/13.0M [00:00<00:08, 1.44MB/s] 11%|█         | 1.46M/13.0M [00:00<00:04, 2.82MB/s] 23%|██▎       | 2.94M/13.0M [00:01<00:01, 5.57MB/s] 39%|███▊      | 5.03M/13.0M [00:01<00:00, 8.59MB/s] 45%|████▍     | 5.83M/13.0M [00:01<00:00, 8.01MB/s] 60%|██████    | 7.85M/13.0M [00:01<00:00, 10.4MB/s] 80%|███████▉  | 10.4M/13.0M [00:01<00:00, 10.0MB/s]                                                    2023-01-31 16:33:22,640 INFO Download rate 5M/s
+2008
+2023-01-31 16:33:24,800 INFO Welcome to the CDS
+2023-01-31 16:33:24,801 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:33:24,954 INFO Request is queued
+2023-01-31 16:33:26,102 INFO Request is running
+2023-01-31 16:39:45,718 INFO Request is completed
+2023-01-31 16:39:45,719 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data1/adaptor.mars.internal-1675208005.0012639-27608-2-64b0f798-ed71-4d80-8868-3a30e567e04e.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2008.grib (13.1M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2008']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.1M [00:00<?, ?B/s]  0%|          | 8.00k/13.1M [00:00<03:12, 71.1kB/s]  0%|          | 40.0k/13.1M [00:00<01:18, 173kB/s]   1%|          | 86.0k/13.1M [00:00<00:54, 249kB/s]  1%|▏         | 173k/13.1M [00:00<00:33, 403kB/s]   3%|▎         | 340k/13.1M [00:00<00:19, 698kB/s]  5%|▌         | 693k/13.1M [00:00<00:09, 1.33MB/s] 10%|█         | 1.36M/13.1M [00:00<00:04, 2.55MB/s] 21%|██        | 2.71M/13.1M [00:01<00:02, 4.94MB/s] 33%|███▎      | 4.29M/13.1M [00:01<00:01, 6.90MB/s] 52%|█████▏    | 6.76M/13.1M [00:01<00:00, 10.6MB/s] 69%|██████▉   | 8.99M/13.1M [00:01<00:00, 9.46MB/s] 90%|█████████ | 11.8M/13.1M [00:01<00:00, 12.2MB/s]                                                    2023-01-31 16:39:48,226 INFO Download rate 5.2M/s
+2009
+2023-01-31 16:39:50,257 INFO Welcome to the CDS
+2023-01-31 16:39:50,260 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:39:50,436 INFO Request is queued
+2023-01-31 16:39:51,578 INFO Request is running
+2023-01-31 16:46:11,127 INFO Request is completed
+2023-01-31 16:46:11,128 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data4/adaptor.mars.internal-1675208390.469677-25674-3-10f8b158-6e7c-4fc4-9301-0ebf3d127c9c.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2009.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2009']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 34.0k/13.0M [00:00<01:33, 145kB/s]  1%|          | 95.0k/13.0M [00:00<00:48, 280kB/s]  2%|▏         | 208k/13.0M [00:00<00:27, 491kB/s]   2%|▏         | 316k/13.0M [00:00<00:22, 595kB/s]  5%|▍         | 656k/13.0M [00:00<00:10, 1.23MB/s]  7%|▋         | 972k/13.0M [00:00<00:08, 1.57MB/s] 15%|█▍        | 1.90M/13.0M [00:01<00:03, 3.32MB/s] 23%|██▎       | 2.95M/13.0M [00:01<00:02, 4.69MB/s] 34%|███▍      | 4.42M/13.0M [00:01<00:01, 6.50MB/s] 39%|███▊      | 5.04M/13.0M [00:01<00:01, 6.02MB/s] 55%|█████▍    | 7.15M/13.0M [00:01<00:00, 8.91MB/s] 68%|██████▊   | 8.92M/13.0M [00:01<00:00, 9.93MB/s] 86%|████████▌ | 11.2M/13.0M [00:01<00:00, 12.3MB/s]                                                    2023-01-31 16:46:14,059 INFO Download rate 4.4M/s
+2010
+2023-01-31 16:46:16,204 INFO Welcome to the CDS
+2023-01-31 16:46:16,207 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:46:16,361 INFO Request is queued
+2023-01-31 16:46:17,508 INFO Request is running
+2023-01-31 16:52:36,988 INFO Request is completed
+2023-01-31 16:52:36,989 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data3/adaptor.mars.internal-1675208776.4710252-9079-1-27b14c5b-7824-4b7d-9d04-3b842e311cbb.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2010.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2010']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<02:58, 76.3kB/s]  0%|          | 40.0k/13.0M [00:00<01:14, 183kB/s]   1%|          | 92.0k/13.0M [00:00<00:47, 283kB/s]  2%|▏         | 204k/13.0M [00:00<00:26, 511kB/s]   3%|▎         | 428k/13.0M [00:00<00:14, 943kB/s]  6%|▋         | 836k/13.0M [00:00<00:07, 1.68MB/s] 13%|█▎        | 1.63M/13.0M [00:00<00:03, 3.20MB/s] 24%|██▍       | 3.12M/13.0M [00:01<00:01, 5.86MB/s] 38%|███▊      | 4.93M/13.0M [00:01<00:01, 7.59MB/s] 61%|██████    | 7.91M/13.0M [00:01<00:00, 12.0MB/s] 79%|███████▊  | 10.2M/13.0M [00:01<00:00, 10.5MB/s] 98%|█████████▊| 12.8M/13.0M [00:01<00:00, 12.7MB/s]                                                    2023-01-31 16:52:39,681 INFO Download rate 4.8M/s
+2011
+2023-01-31 16:52:41,913 INFO Welcome to the CDS
+2023-01-31 16:52:41,916 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:52:42,079 INFO Request is queued
+2023-01-31 16:52:43,224 INFO Request is running
+2023-01-31 16:59:02,893 INFO Request is completed
+2023-01-31 16:59:02,894 INFO Downloading https://download-0020.copernicus-climate.eu/cache-compute-0020/cache/data1/adaptor.mars.internal-1675209162.1956673-31026-3-2a452332-53f4-43da-bb35-fc55207f6265.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2011.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2011']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<02:56, 77.5kB/s]  0%|          | 40.0k/13.0M [00:00<01:14, 182kB/s]   1%|          | 96.0k/13.0M [00:00<00:46, 295kB/s]  2%|▏         | 206k/13.0M [00:00<00:26, 509kB/s]   3%|▎         | 412k/13.0M [00:00<00:14, 886kB/s]  6%|▋         | 846k/13.0M [00:00<00:07, 1.70MB/s] 12%|█▏        | 1.60M/13.0M [00:00<00:03, 3.07MB/s] 24%|██▍       | 3.13M/13.0M [00:01<00:01, 5.77MB/s] 35%|███▍      | 4.50M/13.0M [00:01<00:01, 7.09MB/s] 42%|████▏     | 5.47M/13.0M [00:01<00:01, 7.25MB/s] 55%|█████▍    | 7.13M/13.0M [00:01<00:00, 8.91MB/s] 65%|██████▌   | 8.51M/13.0M [00:01<00:00, 9.20MB/s] 86%|████████▌ | 11.2M/13.0M [00:01<00:00, 12.1MB/s] 95%|█████████▌| 12.4M/13.0M [00:01<00:00, 11.0MB/s]                                                    2023-01-31 16:59:06,876 INFO Download rate 3.3M/s
+2012
+2023-01-31 16:59:09,114 INFO Welcome to the CDS
+2023-01-31 16:59:09,117 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 16:59:09,274 INFO Request is queued
+2023-01-31 16:59:10,428 INFO Request is running
+2023-01-31 17:05:29,873 INFO Request is completed
+2023-01-31 17:05:29,874 INFO Downloading https://download-0021.copernicus-climate.eu/cache-compute-0021/cache/data5/adaptor.mars.internal-1675209549.3584929-15184-18-1603efba-61d9-438c-ba7c-9eacd1fd30cc.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2012.grib (13.1M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2012']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.1M [00:00<?, ?B/s]  0%|          | 8.00k/13.1M [00:00<03:10, 72.0kB/s]  0%|          | 35.0k/13.1M [00:00<01:30, 151kB/s]   1%|          | 94.0k/13.1M [00:00<00:48, 282kB/s]  1%|▏         | 199k/13.1M [00:00<00:28, 475kB/s]   3%|▎         | 369k/13.1M [00:00<00:17, 751kB/s]  6%|▌         | 750k/13.1M [00:00<00:09, 1.44MB/s] 10%|█         | 1.37M/13.1M [00:00<00:04, 2.52MB/s] 21%|██        | 2.73M/13.1M [00:01<00:02, 4.94MB/s] 41%|████      | 5.36M/13.1M [00:01<00:00, 9.47MB/s] 55%|█████▌    | 7.25M/13.1M [00:01<00:00, 10.9MB/s] 63%|██████▎   | 8.28M/13.1M [00:01<00:00, 9.72MB/s] 84%|████████▎ | 10.9M/13.1M [00:01<00:00, 12.6MB/s] 99%|█████████▉| 12.9M/13.1M [00:02<00:00, 7.59MB/s]                                                    2023-01-31 17:05:33,670 INFO Download rate 3.4M/s
+2013
+2023-01-31 17:05:35,854 INFO Welcome to the CDS
+2023-01-31 17:05:35,857 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:05:36,022 INFO Request is queued
+2023-01-31 17:05:37,166 INFO Request is running
+2023-01-31 17:11:56,586 INFO Request is completed
+2023-01-31 17:11:56,587 INFO Downloading https://download-0016.copernicus-climate.eu/cache-compute-0016/cache/data9/adaptor.mars.internal-1675209936.54291-1050-4-0537f7ad-b31f-49d9-9d3b-b369d7b0ee0a.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2013.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2013']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:09, 72.2kB/s]  0%|          | 40.0k/13.0M [00:00<01:17, 176kB/s]   1%|          | 86.0k/13.0M [00:00<00:53, 254kB/s]  1%|▏         | 174k/13.0M [00:00<00:32, 414kB/s]   2%|▏         | 332k/13.0M [00:00<00:19, 690kB/s]  5%|▍         | 648k/13.0M [00:00<00:10, 1.25MB/s] 10%|▉         | 1.27M/13.0M [00:00<00:05, 2.42MB/s] 19%|█▉        | 2.52M/13.0M [00:01<00:02, 4.68MB/s] 32%|███▏      | 4.19M/13.0M [00:01<00:01, 6.96MB/s] 45%|████▍     | 5.83M/13.0M [00:01<00:00, 8.72MB/s] 61%|██████    | 7.94M/13.0M [00:01<00:00, 8.33MB/s] 84%|████████▎ | 10.9M/13.0M [00:01<00:00, 11.6MB/s] 93%|█████████▎| 12.1M/13.0M [00:01<00:00, 10.6MB/s]                                                    2023-01-31 17:11:59,616 INFO Download rate 4.3M/s
+2014
+2023-01-31 17:12:01,759 INFO Welcome to the CDS
+2023-01-31 17:12:01,762 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:12:01,921 INFO Request is queued
+2023-01-31 17:12:03,062 INFO Request is running
+2023-01-31 17:18:22,472 INFO Request is completed
+2023-01-31 17:18:22,473 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data3/adaptor.mars.internal-1675210322.0976026-6713-12-2f915fc1-c5df-4048-b68c-5fbeeab873ed.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2014.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2014']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<02:59, 76.1kB/s]  0%|          | 40.0k/13.0M [00:00<01:14, 182kB/s]   1%|          | 88.0k/13.0M [00:00<00:50, 268kB/s]  1%|▏         | 184k/13.0M [00:00<00:29, 453kB/s]   3%|▎         | 352k/13.0M [00:00<00:17, 751kB/s]  5%|▍         | 664k/13.0M [00:00<00:09, 1.30MB/s]  9%|▉         | 1.20M/13.0M [00:00<00:05, 2.26MB/s] 18%|█▊        | 2.29M/13.0M [00:01<00:02, 4.24MB/s] 32%|███▏      | 4.11M/13.0M [00:01<00:01, 7.16MB/s] 37%|███▋      | 4.78M/13.0M [00:01<00:01, 6.65MB/s] 53%|█████▎    | 6.95M/13.0M [00:01<00:00, 9.77MB/s] 61%|██████    | 7.97M/13.0M [00:01<00:00, 9.09MB/s] 73%|███████▎  | 9.54M/13.0M [00:01<00:00, 10.1MB/s] 88%|████████▊ | 11.5M/13.0M [00:01<00:00, 11.7MB/s] 97%|█████████▋| 12.7M/13.0M [00:02<00:00, 10.5MB/s]                                                    2023-01-31 17:18:25,156 INFO Download rate 4.9M/s
+2015
+2023-01-31 17:18:27,225 INFO Welcome to the CDS
+2023-01-31 17:18:27,227 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:18:27,398 INFO Request is queued
+2023-01-31 17:18:28,542 INFO Request is running
+2023-01-31 17:24:47,880 INFO Request is completed
+2023-01-31 17:24:47,881 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data3/adaptor.mars.internal-1675210707.5454078-31325-9-06104eb2-0468-4926-b570-a53efeba3777.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2015.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2015']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 34.0k/13.0M [00:00<01:31, 149kB/s]  1%|          | 96.0k/13.0M [00:00<00:46, 294kB/s]  2%|▏         | 209k/13.0M [00:00<00:26, 513kB/s]   3%|▎         | 421k/13.0M [00:00<00:14, 903kB/s]  6%|▋         | 851k/13.0M [00:00<00:07, 1.70MB/s] 13%|█▎        | 1.67M/13.0M [00:00<00:03, 3.26MB/s] 26%|██▌       | 3.36M/13.0M [00:01<00:01, 6.35MB/s] 36%|███▋      | 4.73M/13.0M [00:01<00:01, 7.56MB/s] 55%|█████▌    | 7.23M/13.0M [00:01<00:00, 11.0MB/s] 64%|██████▎   | 8.29M/13.0M [00:01<00:00, 10.0MB/s] 77%|███████▋  | 10.0M/13.0M [00:01<00:00, 11.2MB/s] 93%|█████████▎| 12.1M/13.0M [00:01<00:00, 12.5MB/s]                                                    2023-01-31 17:24:50,475 INFO Download rate 5M/s
+2016
+2023-01-31 17:24:52,624 INFO Welcome to the CDS
+2023-01-31 17:24:52,627 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:24:52,805 INFO Request is queued
+2023-01-31 17:24:55,600 INFO Request is running
+2023-01-31 17:31:13,466 INFO Request is completed
+2023-01-31 17:31:13,467 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data0/adaptor.mars.internal-1675211094.429793-308-3-4d69cfb3-9619-4f38-899a-1633754f583e.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2016.grib (13.1M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2016']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.1M [00:00<?, ?B/s]  0%|          | 8.00k/13.1M [00:00<03:07, 73.1kB/s]  0%|          | 24.0k/13.1M [00:00<02:14, 102kB/s]   0%|          | 52.0k/13.1M [00:00<01:29, 152kB/s]  1%|          | 108k/13.1M [00:00<00:52, 258kB/s]   2%|▏         | 223k/13.1M [00:00<00:28, 474kB/s]  3%|▎         | 444k/13.1M [00:00<00:15, 872kB/s]  6%|▌         | 760k/13.1M [00:00<00:09, 1.35MB/s] 11%|█▏        | 1.48M/13.1M [00:01<00:04, 2.70MB/s] 17%|█▋        | 2.21M/13.1M [00:01<00:03, 3.58MB/s] 22%|██▏       | 2.91M/13.1M [00:01<00:02, 4.06MB/s] 43%|████▎     | 5.66M/13.1M [00:01<00:00, 8.99MB/s] 55%|█████▍    | 7.17M/13.1M [00:01<00:00, 9.46MB/s] 62%|██████▏   | 8.06M/13.1M [00:01<00:00, 8.68MB/s] 77%|███████▋  | 10.1M/13.1M [00:01<00:00, 10.9MB/s] 88%|████████▊ | 11.6M/13.1M [00:02<00:00, 10.9MB/s] 99%|█████████▉| 13.0M/13.1M [00:02<00:00, 10.9MB/s]                                                    2023-01-31 17:31:16,662 INFO Download rate 4.1M/s
+2017
+2023-01-31 17:31:18,800 INFO Welcome to the CDS
+2023-01-31 17:31:18,803 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:31:18,995 INFO Request is queued
+2023-01-31 17:31:20,140 INFO Request is running
+2023-01-31 17:37:39,620 INFO Request is completed
+2023-01-31 17:37:39,621 INFO Downloading https://download-0014-clone.copernicus-climate.eu/cache-compute-0014/cache/data0/adaptor.mars.internal-1675211479.1265924-8657-9-9e5eaa62-9227-443f-9fc0-b1af417f77db.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2017.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2017']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:02, 74.6kB/s]  0%|          | 26.0k/13.0M [00:00<02:01, 113kB/s]   0%|          | 51.0k/13.0M [00:00<01:31, 149kB/s]  1%|          | 107k/13.0M [00:00<00:52, 259kB/s]   2%|▏         | 219k/13.0M [00:00<00:28, 473kB/s]  3%|▎         | 447k/13.0M [00:00<00:14, 900kB/s]  6%|▌         | 755k/13.0M [00:00<00:09, 1.37MB/s] 11%|█▏        | 1.48M/13.0M [00:01<00:04, 2.76MB/s] 19%|█▊        | 2.41M/13.0M [00:01<00:02, 4.15MB/s] 25%|██▍       | 3.20M/13.0M [00:01<00:02, 4.66MB/s] 46%|████▌     | 5.95M/13.0M [00:01<00:00, 9.48MB/s] 57%|█████▋    | 7.39M/13.0M [00:01<00:00, 7.67MB/s] 79%|███████▉  | 10.3M/13.0M [00:01<00:00, 11.4MB/s] 88%|████████▊ | 11.5M/13.0M [00:02<00:00, 10.6MB/s] 99%|█████████▉| 12.9M/13.0M [00:02<00:00, 10.8MB/s]                                                    2023-01-31 17:37:42,821 INFO Download rate 4.1M/s
+2018
+2023-01-31 17:37:44,903 INFO Welcome to the CDS
+2023-01-31 17:37:44,905 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:37:45,069 INFO Request is queued
+2023-01-31 17:37:47,858 INFO Request is running
+2023-01-31 17:44:05,794 INFO Request is completed
+2023-01-31 17:44:05,795 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data8/adaptor.mars.internal-1675211867.5724902-6474-16-42910c9b-7538-48d8-acf5-b2aa01fe3fcb.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2018.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2018']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<02:58, 76.4kB/s]  0%|          | 34.0k/13.0M [00:00<01:28, 153kB/s]   1%|          | 94.0k/13.0M [00:00<00:45, 296kB/s]  2%|▏         | 207k/13.0M [00:00<00:25, 521kB/s]   3%|▎         | 432k/13.0M [00:00<00:13, 951kB/s]  6%|▌         | 736k/13.0M [00:00<00:09, 1.41MB/s] 11%|█         | 1.44M/13.0M [00:00<00:04, 2.78MB/s] 17%|█▋        | 2.24M/13.0M [00:01<00:02, 3.86MB/s] 26%|██▋       | 3.45M/13.0M [00:01<00:01, 5.47MB/s] 31%|███       | 3.99M/13.0M [00:01<00:01, 5.17MB/s] 46%|████▋     | 6.05M/13.0M [00:01<00:00, 8.35MB/s] 58%|█████▊    | 7.57M/13.0M [00:01<00:00, 9.44MB/s] 70%|██████▉   | 9.09M/13.0M [00:01<00:00, 10.1MB/s] 81%|████████▏ | 10.6M/13.0M [00:01<00:00, 10.6MB/s] 93%|█████████▎| 12.1M/13.0M [00:02<00:00, 10.9MB/s]                                                    2023-01-31 17:44:08,478 INFO Download rate 4.9M/s
+2019
+2023-01-31 17:44:10,522 INFO Welcome to the CDS
+2023-01-31 17:44:10,525 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:44:10,697 INFO Request is queued
+2023-01-31 17:44:11,842 INFO Request is running
+2023-01-31 17:50:31,396 INFO Request is completed
+2023-01-31 17:50:31,397 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data3/adaptor.mars.internal-1675212250.8557673-1576-18-0bfcf7b9-4dae-4aed-bc99-e2b96c2c944f.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2019.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2019']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:04, 74.0kB/s]  0%|          | 34.0k/13.0M [00:00<01:32, 147kB/s]   1%|          | 90.0k/13.0M [00:00<00:50, 271kB/s]  2%|▏         | 207k/13.0M [00:00<00:26, 504kB/s]   3%|▎         | 433k/13.0M [00:00<00:14, 919kB/s]  7%|▋         | 877k/13.0M [00:00<00:07, 1.71MB/s] 10%|█         | 1.31M/13.0M [00:00<00:05, 2.20MB/s] 22%|██▏       | 2.88M/13.0M [00:01<00:02, 5.29MB/s] 29%|██▉       | 3.79M/13.0M [00:01<00:01, 5.75MB/s] 36%|███▋      | 4.72M/13.0M [00:01<00:01, 6.10MB/s] 41%|████      | 5.32M/13.0M [00:01<00:01, 5.30MB/s] 49%|████▉     | 6.43M/13.0M [00:01<00:01, 6.47MB/s] 54%|█████▍    | 7.10M/13.0M [00:01<00:01, 6.01MB/s] 60%|█████▉    | 7.78M/13.0M [00:01<00:00, 5.71MB/s] 65%|██████▍   | 8.46M/13.0M [00:02<00:00, 5.51MB/s] 70%|███████   | 9.15M/13.0M [00:02<00:00, 5.40MB/s] 76%|███████▌  | 9.85M/13.0M [00:02<00:00, 5.32MB/s] 81%|████████  | 10.6M/13.0M [00:02<00:00, 5.30MB/s] 87%|████████▋ | 11.3M/13.0M [00:02<00:00, 5.32MB/s] 92%|█████████▏| 12.0M/13.0M [00:02<00:00, 5.34MB/s] 98%|█████████▊| 12.7M/13.0M [00:02<00:00, 5.34MB/s]                                                    2023-01-31 17:50:35,239 INFO Download rate 3.4M/s
+2020
+2023-01-31 17:50:37,481 INFO Welcome to the CDS
+2023-01-31 17:50:37,484 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:50:37,638 INFO Request is queued
+2023-01-31 17:50:38,786 INFO Request is running
+2023-01-31 17:56:58,326 INFO Request is completed
+2023-01-31 17:56:58,327 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data0/adaptor.mars.internal-1675212638.0962083-2109-12-4c2a408a-6193-4739-abcb-252245dc82b6.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2020.grib (13.1M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2020']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.1M [00:00<?, ?B/s]  0%|          | 8.00k/13.1M [00:00<03:07, 73.1kB/s]  0%|          | 34.0k/13.1M [00:00<01:31, 149kB/s]   1%|          | 94.0k/13.1M [00:00<00:47, 289kB/s]  2%|▏         | 208k/13.1M [00:00<00:26, 513kB/s]   2%|▏         | 304k/13.1M [00:00<00:22, 584kB/s]  5%|▍         | 632k/13.1M [00:00<00:10, 1.21MB/s] 10%|▉         | 1.24M/13.1M [00:00<00:05, 2.37MB/s] 18%|█▊        | 2.32M/13.1M [00:01<00:02, 4.20MB/s] 26%|██▌       | 3.34M/13.1M [00:01<00:01, 5.25MB/s] 39%|███▉      | 5.08M/13.1M [00:01<00:01, 7.75MB/s] 47%|████▋     | 6.10M/13.1M [00:01<00:00, 7.76MB/s] 55%|█████▍    | 7.14M/13.1M [00:01<00:00, 7.77MB/s] 63%|██████▎   | 8.18M/13.1M [00:01<00:00, 7.80MB/s] 71%|███████   | 9.25M/13.1M [00:01<00:00, 7.87MB/s] 79%|███████▉  | 10.3M/13.1M [00:02<00:00, 7.95MB/s] 87%|████████▋ | 11.4M/13.1M [00:02<00:00, 8.03MB/s] 96%|█████████▌| 12.5M/13.1M [00:02<00:00, 8.09MB/s]                                                    2023-01-31 17:57:01,320 INFO Download rate 4.4M/s
+2021
+2023-01-31 17:57:03,491 INFO Welcome to the CDS
+2023-01-31 17:57:03,494 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
+2023-01-31 17:57:03,651 INFO Request is queued
+2023-01-31 17:57:04,794 INFO Request is running
+2023-01-31 18:03:24,334 INFO Request is completed
+2023-01-31 18:03:24,334 INFO Downloading https://download-0021.copernicus-climate.eu/cache-compute-0021/cache/data3/adaptor.mars.internal-1675213023.7743745-23224-4-8d4b6146-e743-4c9c-b1ec-d7f57a0db0be.grib to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/west_coast_100m_u_and_v_swh_2021.grib (13M)
+Data is being downloaded to /shared-projects/rev/projects/National_LCOE/West_Coast/data/ERA5/
+['2021']
+['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+  0%|          | 0.00/13.0M [00:00<?, ?B/s]  0%|          | 8.00k/13.0M [00:00<03:04, 73.9kB/s]  0%|          | 34.0k/13.0M [00:00<01:32, 148kB/s]   1%|          | 95.0k/13.0M [00:00<00:47, 288kB/s]  2%|▏         | 204k/13.0M [00:00<00:27, 491kB/s]   3%|▎         | 396k/13.0M [00:00<00:16, 820kB/s]  6%|▌         | 804k/13.0M [00:00<00:08, 1.55MB/s] 11%|█         | 1.41M/13.0M [00:00<00:04, 2.71MB/s] 21%|██        | 2.75M/13.0M [00:01<00:01, 5.63MB/s] 27%|██▋       | 3.54M/13.0M [00:01<00:01, 6.31MB/s] 34%|███▍      | 4.48M/13.0M [00:01<00:01, 6.45MB/s] 56%|█████▌    | 7.31M/13.0M [00:01<00:00, 12.5MB/s] 66%|██████▌   | 8.63M/13.0M [00:01<00:00, 8.72MB/s] 81%|████████  | 10.6M/13.0M [00:01<00:00, 10.3MB/s] 98%|█████████▊| 12.7M/13.0M [00:01<00:00, 11.8MB/s]                                                    2023-01-31 18:03:26,960 INFO Download rate 5M/s
